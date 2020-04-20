@@ -262,7 +262,6 @@ CRGBPalette16 gPal[] = {
   purple_orange_d06_gp,//pink violet*****
   occ092_gp,//only red ? *
   bhw3_37_gp,//pink blu super dark *
-
   Sunset_Yellow_gp,//light yellow sky *****
   spring_gp,//pink light violet *****
   Primary_01_gp,//light yellow sky *****
